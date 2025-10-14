@@ -37,28 +37,10 @@ You are free to use, modify, and distribute the app under the terms of this lice
 
 ---
 
-## Testing Status
-
-PlainQR is currently under open testing.  
-Bug reports, suggestions, and contributors are welcome!
-
----
-
 ## Contact
 
 Need help or want to contribute?  
-Email: [support@rabbittownsoftware.com](mailto:support@rabbittownsoftware.com)
-
----
-
-## Rabbit Town Software
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/Rabbit-Town-Software/misa-engine/blob/eb3aa63bad02385d2af4b7b130d1bde70e2a2715/assets/rabbittownlogo.jpg?raw=true" alt="Rabbit Town Software Logo" width="180"/>
-</p>
-
+Email: [support@casepresley.com](mailto:support@casepresley.com)
 <p align="center">
   <strong>Rabbit Town Software</strong><br/>
   Open-source. No compromise.
